@@ -1,11 +1,12 @@
-<!-- Profile README: GitHub shows this file on github.com/GrimHope because the repo has the same name as the account. -->
+### Hi, I'm Marco
 
-### Hi, I'm Claudio
+ML engineer working on **edge AI and embedded software**. M.Sc. in Computer Engineering (Artificial Intelligence & Robotics), University of Padova.
 
-<!-- FILL IN: one or two sentences: what you studied, what you work on, what you're looking for. -->
+- Shipped quantized, continually-learning vision models to CPU-only embedded hardware in production
+- Built a tested, containerized LLM agent service
+- Verify safety-critical avionics software under DO-178C
 
-My projects span computer vision, 3D data processing and NLP, from university courses and my theses to work and personal projects.
-Most of the code is private; documentation and demos are on my portfolio:
+Most of my code is private. Documentation and demos of my projects, from 3D vision and deep learning coursework to my theses and work, are on my portfolio:
 
 **→ [grimhope.github.io/portfolio](https://grimhope.github.io/portfolio/)**
 
@@ -13,4 +14,4 @@ Most of the code is private; documentation and demos are on my portfolio:
 <!-- Featured projects are listed here once they are published on the portfolio. -->
 <!-- featured:end -->
 
-**Contact:** <!-- FILL IN: email or LinkedIn -->
+**Contact:** [LinkedIn](https://www.linkedin.com/in/falanga-marco) · [falanga.marco.mf@gmail.com](mailto:falanga.marco.mf@gmail.com)
